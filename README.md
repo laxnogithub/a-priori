@@ -12,7 +12,7 @@ Honestly, it's a bit like I am an omniscient deity bestowing limited wisdom upon
 
 ## How to use it
 
-Simply toss this file (priori.md) to your AI, or copy its entire contents and feed it to your AI. (Of course, you may want to edit the content first.)
+Simply toss this file ([priori.md](./priori.md)) to your AI, or copy its entire contents and feed it to your AI. (Of course, you may want to edit the content first.)
 Afterward, when you have new content to add, update this file and inform the AI again.
 
 ## Notes
