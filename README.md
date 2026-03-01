@@ -1,4 +1,4 @@
-# The Book of Awakening (A PRIORI)
+# The Book of Awakening (A PRIORI)[中文](./readme-CN.md)
 
 Helping AI instantly recall every memory of you.
 
